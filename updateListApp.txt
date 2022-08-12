@@ -1,0 +1,42 @@
+=============
+
+Membuat proect bank
+- Memiliki id card
+- mempunyai fungsi menabung, menarik, melihat
+- memiliki fitur tanggal, hari, jam, detik
+sudah selesai
+
+=============
+
+perbaikan bug
+- di bagian lihat
+- di bagian nota
+sudah selesai
+
+=============
+
+perbaikan bug
+- ditemukan bug dibagian membuat nota, lebih tepatnya di pengaturan tanggal
+- bug ini lebih ke logika error
+- niatnya tgl nota bisa ngerefres setiap di panggil fungsinya
+sudah selesai
+
+=============
+
+ide update
+- penambahan fitur gagal login berkali - kali
+- penambahan fitur hiitung jedaGagal login
+- penmbahan fitur block
+selesai
+
+============
+
+ide update
+- penambahan io stream
+sudah selesai
+
+=============
+
+ide update
+
+=============
